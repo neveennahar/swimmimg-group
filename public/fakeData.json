@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "title": "Freestyle",
+        "description": "Esse dolore reprehenderit elit exercitation nostrud sit. Mollit aliquip reprehen",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbgOkIIwIY5dDis2wLlCTe3HPGnYmOq7QVKC6GHttwIRhGVyzPC6LZB54yAuzEu7P7wi0&usqp=CAU",
+        "age": "25-33",
+        "time": 30
+    },
+    {
+        "id": 2,
+        "title": "Front Crawl",
+        "description": "Esse dolore reprehenderit elit exercitation nostrud sit. Mollit aliquip reprehen",
+        "img": "https://static8.depositphotos.com/1370441/845/i/600/depositphotos_8451014-stock-photo-swimmer-in-the-pool-underwater.jpg",
+        "age": "25-33",
+        "time": 25
+    },
+    {
+        "id": 3,
+        "title": " Backstroke",
+        "description": "Esse dolore reprehenderit elit exercitation nostrud sit. Mollit aliquip reprehen",
+        "img": "https://texasswimacademy.com/wp-content/uploads/2015/06/JULY-2014-TSA-4470-763x362-1.jpg",
+        "age": "25-35",
+        "time": 35
+    },
+    {
+        "id": 4,
+        "title": " Breaststroke",
+        "description": "Esse dolore reprehenderit elit exercitation nostrud sit. Mollit aliquip reprehen",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJjxxy8ju8ZX58VnFFR1jhNDs2eE7n_YoAcQ&usqp=CAU",
+        "age": "25-40",
+        "time": 35
+    },
+    {
+        "id": 5,
+        "title": "Butterfly stroke",
+        "description": "Esse dolore reprehenderit elit exercitation nostrud sit. Mollit aliquip reprehen",
+        "img": "https://images.sportsnhobbies.org/man-swimming-in-pool.jpg",
+        "age": "35-33",
+        "time": 45
+    },
+    {
+        "id": 6,
+        "title": "Sidestroke",
+        "description": "Esse dolore reprehenderit elit exercitation nostrud sit. Mollit aliquip reprehen",
+        "img": "https://media.gettyimages.com/photos/perfect-butterfly-stroke-picture-id459214425?s=612x612",
+        "age": "25-33",
+        "time": 55
+    }
+]
