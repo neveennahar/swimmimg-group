@@ -13,6 +13,14 @@ const Questions = () => {
                     <p>In most cases, React is written using JSX instead of standard JavaScript to simplify components and keep code clean. React app usually has a single root DOM node. Rendering an element into the DOM will change the user interface of the page.</p>
                 </div>
             </div>
+            <div tabindex="1" class="collapse collapse-plus border border-base-300 bg-base-100 rounded-box">
+                <div class="collapse-title text-xl font-medium">
+                    Diffrence between props and state?
+                </div>
+                <div class="collapse-content">
+                    <p>Props are read-only.State changes can be asynchronous.Props are immutable.State is mutable.Props allow you to pass data from one component to other components as an argument.   State holds information about the components. Props can be accessed by the child component.	State cannot be accessed by child components.</p>
+                </div>
+            </div>
         </div>
     );
 };
