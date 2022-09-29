@@ -20,6 +20,14 @@ const Questions = () => {
                 <div class="collapse-content">
                     <p>Props are read-only.State changes can be asynchronous.Props are immutable.State is mutable.Props allow you to pass data from one component to other components as an argument.   State holds information about the components. Props can be accessed by the child component.	State cannot be accessed by child components.</p>
                 </div>
+                <div tabindex="3" class="collapse collapse-plus border border-base-300 bg-base-100 rounded-box">
+                <div class="collapse-title text-xl font-medium">
+                    useEffect work except data loading
+                </div>
+                <div class="collapse-content">
+                    <p>By using this Hook, you tell React that your component needs to do something after render. React will remember the function you passed (we'll refer to it as our “effect”), and call it later after performing the DOM updates.</p>
+                </div>
+            </div>
             </div>
         </div>
     );
